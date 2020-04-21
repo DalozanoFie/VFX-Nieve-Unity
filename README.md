@@ -6,13 +6,20 @@ En este proyecto podrá acceder a escenas de muestra y efectos realizados con el
     </a>
 </p>
 
-# Requisitos:
+## Version recomendada:
+
+- Unity 2019.3 o superior
+
+## Requisitos:
+
+- Window/Package Manage/High Definition RP
+
+- Window/Package Manage/Visual Effect Graph
+
 
 <p align="center">
             <img src="hd.png" alt="Package Manager"/>
     </a>
 </p>
 
-- Window/Package Manage/High Definition RP
 
-- Window/Package Manage/Visual Effect Graph
