@@ -5,3 +5,14 @@ En este proyecto podrá acceder a escenas de muestra y efectos realizados con el
             <img src="image.png" alt="Visual Effect Graph - Nieve| Versión 1 Danny Lozano"/>
     </a>
 </p>
+
+# Requisitos:
+
+<p align="center">
+            <img src="hd.png" alt="Package Manager"/>
+    </a>
+</p>
+
+- Window/Package Manage/High Definition RP
+
+- Window/Package Manage/Visual Effect Graph
